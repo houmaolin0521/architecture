@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/architecture.iml" filepath="$PROJECT_DIR$/.idea/architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-api/architecture-api.iml" filepath="$PROJECT_DIR$/architecture-api/architecture-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-biz/architecture-biz.iml" filepath="$PROJECT_DIR$/architecture-biz/architecture-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-common/architecture-common.iml" filepath="$PROJECT_DIR$/architecture-common/architecture-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-dal/architecture-dal.iml" filepath="$PROJECT_DIR$/architecture-dal/architecture-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-web/architecture-web.iml" filepath="$PROJECT_DIR$/architecture-web/architecture-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="architecture-common" />
+        <module name="architecture-dal" />
+        <module name="architecture-web" />
+        <module name="architecture-biz" />
+        <module name="architecture-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="architecture" target="1.8" />
+      <module name="architecture-api" target="1.5" />
+      <module name="architecture-biz" target="1.5" />
+      <module name="architecture-common" target="1.5" />
+      <module name="architecture-dal" target="1.5" />
+      <module name="architecture-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
